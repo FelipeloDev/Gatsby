@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/Venessia.jpg",
+        "alt": "Venecia",
+        "name": "Venecia",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Bridge.jpg",
+        "alt": "Bridge",
+        "name": "Bridge",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Port.jpg",
+        "alt": "Port",
+        "name": "Port",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Montains.jpg",
+        "alt": "Montains",
+        "name": "Montains",
+        "button": "View Destination"
+    }
+]
